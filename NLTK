@@ -80,8 +80,6 @@ if __name__ == "__main__":
 
 
 
-l2 = create_lexicon("pos.txt","neg.txt")
-print(len(l2))
 
 
     
